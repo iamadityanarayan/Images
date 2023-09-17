@@ -1,0 +1,1 @@
+URL=https://react-bootstrap.netlify.app/docs/components/carousel/#no-transition-animation
